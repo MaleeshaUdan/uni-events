@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.navbar{
+    background-color: rgba(90, 5, 79, 0.781);
+
+}
+.navbar-text ul li a{
+    color: whitesmoke;
+
+}
+
+
+.navbar-text ul li a:hover{
+    color: blanchedalmond;
+}
+.fristSlideShow img{
+    height: 85vh;
+    width: 100%;
+}
+.footer {
+    background: #090909;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+}
+
+.footer h3 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #fff;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0 0 15px 0;
+}
+
+.footer p {
+    font-size: 15;
+    font-style: italic;
+    padding: 0;
+    margin: 0 0 40px 0;
+}
+
+.footer .social-links {
+    margin: 0 0 40px 0;
+}
+
+.footer .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #eee6e6;
+    color: rgb(27, 25, 25);
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+
+.footer .social-links a:hover {
+    background: #7204a5;
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer .copyright {
+    margin: 0 0 5px 0;
+}
+
+.footer .credits {
+    font-size: 13px;
+}
+
+.accordion-color {
+    color: red
+}
+
+
+/* ABOUT PAGE */
+.aboutsPart1{
+    background-color: #7204a5;
+    border: #090909;
+    border-radius: 5px;    
+}
+.aboutsPart2{
+   
+    border: #090909;
+    border-radius: 5px; 
+    width: 100%;
+    
+   
+}
+
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:#7204a5; /* Replace with your desired background color */
+    filter: blur(100px); /* Adjust the blur amount as needed */
+    z-index: -1; /* Ensure the pseudo-element is behind the content */
+}
+
+/* evet PAGE */
+.card1 {
+    background-color: rgb(206, 101, 233); 
+    margin-top: 10px;
+    color: white;
+}
+.card2{
+    background-color: rgb(40, 138, 53); 
+    color: white;
+}
+.card3{
+    background-color: rgb(216, 127, 25); 
+    
+    color: white;
+}
+.card1 a{
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* evet PAGE END */
