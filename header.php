@@ -19,13 +19,13 @@
                                     <a class="nav-link" href="aboutus.html">About Us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="event.html">Event</a>
+                                    <a class="nav-link" href="event.php">Event</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="photVideo.html">Photo/Video</a>
+                                    <a class="nav-link" href="photVideo.php">Photo/Video</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="buyTicket.html">Buy Tickets</a>
+                                    <a class="nav-link" href="buyTicket.php">Buy Tickets</a>
                                 </li>
                             </ul>
                         </div>
