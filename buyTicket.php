@@ -23,7 +23,7 @@
                 <br>
                 <div class="buyTicketButton pt-4"><hr>
                     <button type="button" class="btn btn-warning btn-lg me-1">Join Now</button><hr>
-                    <button type="button" class="btn btn-warning btn-lg ms-1">Buy Ticket</button> <hr>       
+                    <a href="booking.php" class="btn btn-warning btn-lg ms-1">Buy Ticket</a> <hr>       
                 </div>
             </div>
             <div class="col">
