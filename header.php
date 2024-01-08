@@ -13,19 +13,22 @@
                         <div class="collapse navbar-collapse navbar-text" id="navbarSupportedContent">
                             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="home.html">Home</a>
+                                    <a class="nav-link" href="event.php">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="aboutus.html">About Us</a>
+                                    <a class="nav-link" href="#">About Us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="event.html">Event</a>
+                                    <a class="nav-link" href="event.php">Event</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="photVideo.html">Photo/Video</a>
+                                    <a class="nav-link" href="photVideo.php">Photo/Video</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="buyTicket.html">Buy Tickets</a>
+                                    <a class="nav-link" href="buyTicket.php">Buy Tickets</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="logout.php">Logout</a>
                                 </li>
                             </ul>
                         </div>
